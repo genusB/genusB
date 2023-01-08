@@ -19,8 +19,13 @@
 </p>
 
 
-<p align="center">
-  <img src= "https://media.tenor.com/CGFmiEU2y6IAAAAd/zenitsu-zenitsu-agatsuma.gif">
+<p>
+  <p align="center">
+    <img src= "https://media.tenor.com/CGFmiEU2y6IAAAAd/zenitsu-zenitsu-agatsuma.gif">
+  </p>
+    <p align="center">
+    <img height="100" src="https://github.com/genusB/genusB/blob/main/pointer.png?raw=true">
+  </p>
 </p>
 
 
