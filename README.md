@@ -14,7 +14,7 @@
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png"/>
 </a>
 <a href="mailto:pasteyourtext@gmail.com">
-  <img height="50" src="https://cdn.iconfinder.com/stored_data/803694/128/png?token=1673194983-uY40TIxxvfJF9EnIlpGde3HMyKouLqC5U8wILPw5BjE%3D"/>
+  <img height="50" src="https://github.com/genusB/genusB/blob/main/1564504_email_letter_mail_message_icon.png"/>
 </a>
 </p>
 
@@ -74,6 +74,8 @@ hobbies: ["Singing", "Dancing", "Climbing", "Art", "Movie"]
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=genusb&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genusb&theme=noctis_minimus&layout=compact" />
 </a>
+
+![Snake animation](https://github.com/genusB/genusB/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:fae089,100:4cb1c5&height=100&section=footer"/>
