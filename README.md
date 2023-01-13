@@ -75,7 +75,7 @@ hobbies: ["Singing", "Dancing", "Climbing", "Art", "Movie"]
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genusb&theme=noctis_minimus&layout=compact" />
 </a>
 
-![Snake animation](https://github.com/genusB/genusB/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/genusb/genusb/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:fae089,100:4cb1c5&height=100&section=footer"/>
